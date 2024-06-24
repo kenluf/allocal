@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133413921792",
+    "project_id": "allocal-ef500",
+    "storage_bucket": "allocal-ef500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133413921792:android:d867e2920890f0abc964e5",
+        "android_client_info": {
+          "package_name": "com.example.allocal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDayMmm3zdtLMNaNwBFLcOjH1n3aH1iw60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
